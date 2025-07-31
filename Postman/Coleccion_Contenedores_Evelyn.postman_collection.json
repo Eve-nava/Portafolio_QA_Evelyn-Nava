@@ -1,0 +1,43 @@
+{
+  "info": {
+    "name": "API - Contenedores",
+    "_postman_id": "12345678-aaaa-bbbb-cccc-1234567890ab",
+    "description": "Colección de pruebas para endpoints relacionados con contenedores.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "GET - Obtener todos los contenedores",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/contenedores",
+          "host": ["{{base_url}}"],
+          "path": ["contenedores"]
+        }
+      }
+    },
+    {
+      "name": "POST - Crear nuevo contenedor",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"cliente_id\": 101,\n  \"tipo\": \"Reefer\",\n  \"estado\": \"Activo\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/contenedores",
+          "host": ["{{base_url}}"],
+          "path": ["contenedores"]
+        }
+      }
+    }
+  ]
+}
