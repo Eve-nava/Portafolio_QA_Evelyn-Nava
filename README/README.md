@@ -86,19 +86,17 @@ Validación de diferentes entradas para el campo `name` en un endpoint de tipo P
 
 | Proyecto | Descripción | Tecnologías | Link |
 |---------|-------------|-------------|------|
-| **Urban Grocers** | Registro de usuarios, validación de datos y pruebas de flujo de autenticación | Python · Selenium · Pytest · Postman | [Ver proyecto](https://github.com/Eve-nava/Urban-Grocers) |
-| **Urban Routes** | Pruebas automatizadas de solicitud de taxi, selección de tarifa, tarjetas, mensajes y flujo completo | Python · Selenium · Requests · Pytest · Postman | [Ver proyecto](https://github.com/Eve-nava/qa-project-07-es) |
-| **Base de Datos con SQL** | Consultas de prueba sobre base relacional, validando claves y relaciones | SQL · PgAdmin · ERD | [Ver ejemplo](https://github.com/Eve-nava/Portafolio_QA_Evelyn-Nava/tree/main/sql) |
-
+| **Urban Grocers** | Registro de usuarios, validación de datos y pruebas de flujo de autenticación | Python · Selenium · Pytest · Postman | [Ver proyecto](https://github.com/Eve-nava/qa-project-06) |
+| **Urban Routes** | Pruebas automatizadas de solicitud de taxi, selección de tarifa, tarjetas, mensajes y flujo completo | Python · Selenium · Requests · Pytest · Postman | [Ver proyecto](https://github.com/Eve-nava/qa-project-07) |
+| **Base de Datos con SQL** | Consultas de prueba sobre base relacional, validando claves y relaciones | SQL · PgAdmin · ERD | 
 ---
 
 ## 📬 Contacto
 
 📧 **evelynnava1230@gmail.com**  
 📱 +52 55 8232 4280  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-linkedin) *(agrega tu link aquí)*  
-🌐 [Mi portafolio web](https://eve-nava.github.io) *(si decides publicarlo luego)*
-
+🔗 [LinkedIn] www.linkedin.com/in/evelyn-nava-qa
+🌐 [Mi portafolio web] https://github.com/Eve-nava
 ---
 
 > 💡 *Me apasiona descubrir errores antes de que lleguen al usuario final. La calidad no es negociable, y el detalle es mi herramienta principal.*
