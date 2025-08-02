@@ -95,8 +95,8 @@ Validación de diferentes entradas para el campo `name` en un endpoint de tipo P
 
 📧 **evelynnava1230@gmail.com**  
 📱 +52 55 8232 4280  
-🔗 [LinkedIn] www.linkedin.com/in/evelyn-nava-qa
-🌐 [Mi portafolio web] https://github.com/Eve-nava
+🔗  www.linkedin.com/in/evelyn-nava-qa
+🌐  https://github.com/Eve-nava
 ---
 
 > 💡 *Me apasiona descubrir errores antes de que lleguen al usuario final. La calidad no es negociable, y el detalle es mi herramienta principal.*
