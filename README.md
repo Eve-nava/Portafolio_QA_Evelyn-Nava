@@ -1,45 +1,53 @@
-# 👋 ¡Hola! Soy Evelyn Nava
+# 👩‍💻 ¡Hola! Soy Evelyn Nava García
 
-Soy Tester Manual con más de 3 años de experiencia en pruebas y desarrollo de software, innovadora con un historial de diseño y ejecución de planes de prueba exhaustivos para garantizar la calidad del software.  
-Capacidad demostrada para analizar resultados, identificar errores y prevenir problemas, motivada por entregar productos de alta calidad que superan las expectativas del usuario.
+🎯 **QA Manual Tester** con más de 3 años de experiencia en control de calidad de software. Tengo un historial comprobado en el diseño y ejecución de planes de prueba exhaustivos que garantizan la funcionalidad, estabilidad y calidad de los sistemas.
+
+🔍 Capacidad demostrada para analizar resultados, identificar errores, prevenir regresiones y entregar productos de alta calidad que superan las expectativas del usuario final.
 
 ---
 
 ## 🚀 Actualmente
 
-Estoy practicando con **Selenium** y he realizado proyectos con **SQL** y **Python**, utilizando librerías como **Pytest** y **Requests**, así como también herramientas de Manual Testing como **Jira**, **Postman** y **Android Studio**.
+Estoy ampliando mis habilidades técnicas con proyectos de automatización utilizando:
 
-Me encanta el desafío de descubrir nuevas formas de escribir código para automatizar mi trabajo, ya que me apasiona la lógica de programación.
+- `Selenium` para pruebas end-to-end
+- `Pytest` y `Requests` para testing en Python
+- `Postman` para pruebas de APIs REST
+- `JIRA` y `TestRail` para la gestión de defectos y planes de prueba
+- `SQL` para validaciones en bases de datos
+- `Android Studio` para pruebas móviles (solo en Android)
 
----
-
-## 🛠️ Lenguajes y herramientas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
+Me apasiona la lógica de programación y me motiva encontrar formas eficientes de mejorar los procesos de testing a través del análisis y la automatización.
 
 ---
 
-## 📁 Proyectos diseñados
+## 🛠️ Tecnologías y herramientas
 
-En el bootcamp realicé dos proyectos principales:  
-
-- Creación de un usuario para la aplicación **Urban Grocers**.  
-- Funcionalidad para la aplicación **Urban Route**.  
-
-Ambos proyectos los puedes revisar en este repositorio.
-
----
-
-## 📫 Contacto
-
-📧 evelynnava1230@gmail.com  
-📱 +52 5582324280
+- **Lenguajes:** Python · SQL  
+- **Herramientas de Testing:** Selenium · Pytest · Postman · JIRA · TestRail · Charles Proxy · Android Studio  
+- **Colaboración & Documentación:** Confluence · Figma  
+- **Entorno de desarrollo:** PyCharm  
+- **Metodologías:** Scrum · Kanban  
+- **Control de versiones:** Git · GitHub  
 
 ---
 
-¡Gracias por visitar mi portafolio!
+## 📁 Proyectos destacados
+
+Durante mi formación en el bootcamp de QA Engineering, desarrollé proyectos prácticos:
+
+- 🔐 **Creación de usuario en Urban Grocers:** validación de flujos críticos de registro y autenticación.  
+- 🚖 **Funcionalidad completa en Urban Routes:** automatización de pruebas para solicitud de taxi, validaciones con datos dinámicos y simulación de usuario real.
+
+👉 Ambos proyectos están disponibles en este repositorio.
+
+---
+
+## 📬 Contacto
+
+- 📧 **evelynnava1230@gmail.com**  
+- 📱 +52 5582 324 280  
+- 🌐 www.linkedin.com/in/evelyn-nava-qa
+---
+
+> ¡Gracias por visitar mi perfil de GitHub!
