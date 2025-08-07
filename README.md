@@ -101,23 +101,32 @@ Este repositorio agrupa mis proyectos y prácticas relacionados con control de c
 | Empleados                  | Registro y consultas sobre empleados y departamentos             | SQL · MySQL                     |
 | Biblioteca                 | Alta de libros, autores y control de ejemplares                  | SQL · MySQL                     |
 | Gestión de pedidos         | Clientes, productos, pedidos y detalles de compra con relaciones | SQL · MySQL                     |
+| Validación de API en Postman | Evidencia de pruebas manuales con diferentes inputs en endpoints REST | Postman · Testing manual       |
+| Pruebas móviles UrbanLunch | Casos funcionales validados en app móvil Android, con evidencias visuales | Android Studio · Testing Manual |
 
 ---
 
 ## 🗂️ Repositorios de Validación y Bugs de API
 
-He documentado y organizado mis pruebas de validación de datos en APIs y la gestión de bugs en dos repositorios separados para mantener todo claro y ordenado:
+He documentado y organizado mis pruebas de validación de datos en APIs, bugs, pruebas móviles y evidencias en repositorios separados para mantener todo claro y ordenado:
 
 - **Validación de Datos API**  
-  https://github.com/Eve-nava/Proyectos-validacion-API.git  
-  Contiene casos de prueba manual con validación positiva y negativa, listas de comprobación, y documentación de cómo validar campos en JSON y URL.
+  🔗 https://github.com/Eve-nava/Proyectos-validacion-API.git  
+  Casos de prueba manual con validación positiva y negativa, listas de comprobación, y documentación de cómo validar campos en JSON y URL.
 
 - **Bugs de API**  
-  https://github.com/Eve-nava/Portafolio_bug_API.git  
+  🔗 https://github.com/Eve-nava/Portafolio_bug_API.git  
   Reportes de bugs detectados durante las pruebas con detalles del error, resultado esperado y estado de la prueba.
 
----
+- **Validación de API en Postman (Evidencias visuales)**  
+  🔗 https://github.com/Eve-nava/API_Validation_Postman.git  
+  Imágenes organizadas por carpeta: validación de ID, caracteres especiales, productos, servicios, Urban API y más.
 
+- **Pruebas Funcionales Móviles (UrbanLunch)**  
+  🔗 https://github.com/Eve-nava/Proyecto_Pruebas_Moviles_UrbanLunch.git  
+  Capturas y documentación de pruebas ejecutadas en aplicación móvil usando emulador y dispositivo físico.
+
+---
 ## 📬 Contacto
 
 📧 evelynnava1230@gmail.com  
@@ -127,5 +136,10 @@ He documentado y organizado mis pruebas de validación de datos en APIs y la ges
 
 ---
 
-💡 Me apasiona descubrir errores antes de que lleguen al usuario final. La calidad no es negociable, y el detalle es mi herramienta principal.
+---
+🔍 Me apasiona descubrir errores antes de que lleguen al usuario final. La calidad no es negociable, y el detalle es mi herramienta principal.
+
+📌 Este portafolio refleja mi compromiso con la mejora continua, mi formación como QA Tester y mi entusiasmo por aportar valor real en proyectos de tecnología. Cada uno de los ejercicios incluidos representa una etapa de aprendizaje, análisis y mejora.
+
+🚀 Estoy abierta a nuevas oportunidades laborales en QA Manual o en posiciones de entrada en automatización. Si deseas conocer más sobre mi trabajo o colaborar, no dudes en contactarme.
 
